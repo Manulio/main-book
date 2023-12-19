@@ -1,8 +1,7 @@
-import { Candidate } from "./Candidate";
-import "./CandidateList.css";
+import { Candidate } from "../Candidate/Candidate";
+import "../CandidateList/CandidateList.css";
 
 export function CandidateList(props) {
-	console.log(props.candidates);
 	const candidateList = (
 		<div class="member-list">
 			{props.candidates.map((candidate) => (

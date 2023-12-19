@@ -1,4 +1,51 @@
-body {
-	background-color: rgb(30, 30, 30);
+:root{
+  --main-black: #1B1A17;
+  --main-white: #E6D5B8;
+  --primary: #F0A500;
+  --secondary: #E45826;
 }
+
+
+body {
+	background-color: var(--main-black);
+	font-family: "Archivo", sans-serif;
+  color: var(--main-white);
+}
+
+
+
+
+/* CSS */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+ 
+
+
+
+
+
+  
+
+  
+
+
+
+    
+  
+
 @import url("https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap");

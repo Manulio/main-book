@@ -1,0 +1,9 @@
+.member-list {
+    display: flex;
+    flex-direction: colum;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: fit-content;
+    justify-content: center;
+    gap: 10px;
+  }
